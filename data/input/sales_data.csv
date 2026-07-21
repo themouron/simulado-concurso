@@ -1,0 +1,301 @@
+﻿date,seller,region,product,category,quantity,unit_price
+2026-01-07,Gabriel Silva,South,Router,Networking,9,326
+2026-02-26,Bruno Rodrigues,Central,Headset,Peripherals,1,240
+2026-06-28,Sofia Ferreira,East,Headset,Peripherals,3,243
+2026-03-28,Ana Barbosa,North,Printer,Office,2,1202
+2026-03-30,Ana Souza,East,Mouse,Peripherals,8,94
+2026-02-01,Sofia Ferreira,North,External HD,Storage,5,440
+2026-06-08,Lucas Barbosa,Central,Notebook,Computers,2,3482
+2026-06-19,Daniel Oliveira,East,Keyboard,Peripherals,4,136
+2026-04-08,Mariana Souza,West,Desk,Furniture,6,1390
+2026-04-05,Lucas Barbosa,South,Desk,Furniture,5,1384
+2026-06-05,Daniel Santos,South,External HD,Storage,4,410
+2026-04-29,Sofia Ferreira,East,Desk,Furniture,9,1394
+2026-06-25,Lucas Barbosa,North,Notebook,Computers,1,3500
+2026-04-13,Mariana Souza,North,Notebook,Computers,10,3500
+2026-02-24,Daniel Santos,West,Printer,Office,8,1189
+2026-03-09,Eduardo Santos,South,Router,Networking,9,334
+2026-03-09,Igor Rodrigues,Central,Printer,Office,10,1205
+2026-04-03,Daniel Oliveira,South,External HD,Storage,8,405
+2026-01-13,Ana Barbosa,South,Desk,Furniture,3,1407
+2026-06-02,Ana Barbosa,West,Printer,Office,10,1209
+2026-05-16,Mariana Souza,Central,Mouse,Peripherals,2,94
+2026-03-10,Daniel Santos,East,Keyboard,Peripherals,5,157
+2026-02-10,Bruno Rodrigues,North,Router,Networking,5,332
+2026-02-15,Gabriel Silva,North,Desk,Furniture,5,1420
+2026-05-10,Ana Souza,South,Monitor,Screens,6,890
+2026-05-19,Gabriel Silva,North,Office Chair,Furniture,6,961
+2026-01-05,Ana Barbosa,East,Headset,Peripherals,4,233
+2026-03-03,Ana Souza,North,Keyboard,Peripherals,8,134
+2026-05-17,Eduardo Santos,South,Desk,Furniture,8,1415
+2026-02-12,Mariana Souza,Central,Office Chair,Furniture,7,943
+2026-05-19,Igor Rodrigues,South,Router,Networking,5,325
+2026-06-21,Daniel Santos,East,SSD 1TB,Storage,9,558
+2026-01-31,Daniel Oliveira,South,Keyboard,Peripherals,6,131
+2026-05-31,Gabriel Silva,South,Office Chair,Furniture,4,930
+2026-01-19,Igor Rodrigues,North,Notebook,Computers,2,3482
+2026-03-26,Ana Barbosa,Central,Notebook,Computers,5,3511
+2026-02-24,Gabriel Silva,South,Router,Networking,10,336
+2026-05-02,Daniel Oliveira,West,Printer,Office,4,1186
+2026-01-25,Daniel Santos,West,Webcam,Peripherals,7,186
+2026-04-30,Igor Rodrigues,North,Desk,Furniture,2,1383
+2026-04-14,Igor Rodrigues,East,Keyboard,Peripherals,4,142
+2026-02-18,Gabriel Silva,West,Monitor,Screens,7,891
+2026-03-13,Bruno Rodrigues,South,Keyboard,Peripherals,8,165
+2026-01-26,Lucas Souza,Central,Mouse,Peripherals,2,75
+2026-02-12,Sofia Ferreira,West,SSD 1TB,Storage,4,555
+2026-01-16,Eduardo Santos,West,Mouse,Peripherals,7,76
+2026-04-27,Mariana Souza,West,Router,Networking,9,331
+2026-02-09,Daniel Oliveira,East,Notebook,Computers,1,3517
+2026-05-19,Lucas Souza,East,Mouse,Peripherals,1,97
+2026-05-03,Gabriel Silva,Central,Monitor,Screens,1,912
+2026-01-21,Eduardo Santos,North,Office Chair,Furniture,2,945
+2026-04-14,Ana Barbosa,Central,Notebook,Computers,10,3518
+2026-01-11,Ana Souza,North,Printer,Office,10,1216
+2026-05-14,Lucas Barbosa,East,Notebook,Computers,6,3495
+2026-03-09,Sofia Ferreira,South,Desk,Furniture,5,1409
+2026-03-22,Ana Barbosa,North,SSD 1TB,Storage,10,566
+2026-01-26,Ana Barbosa,Central,Notebook,Computers,9,3496
+2026-02-03,Lucas Barbosa,North,Notebook,Computers,6,3498
+2026-02-10,Bruno Rodrigues,Central,Router,Networking,5,339
+2026-06-17,Gabriel Silva,North,Desk,Furniture,9,1399
+2026-06-19,Ana Barbosa,South,Headset,Peripherals,2,236
+2026-05-22,Eduardo Santos,East,Headset,Peripherals,10,243
+2026-03-29,Daniel Oliveira,East,External HD,Storage,8,416
+2026-01-14,Ana Barbosa,West,Headset,Peripherals,1,230
+2026-03-27,Eduardo Santos,East,Monitor,Screens,8,915
+2026-06-30,Sofia Ferreira,Central,Mouse,Peripherals,2,64
+2026-06-26,Eduardo Santos,Central,Mouse,Peripherals,6,97
+2026-05-22,Eduardo Santos,West,Monitor,Screens,1,899
+2026-04-04,Lucas Souza,East,Notebook,Computers,4,3486
+2026-04-01,Gabriel Silva,West,Office Chair,Furniture,3,945
+2026-02-11,Eduardo Santos,West,Mouse,Peripherals,3,81
+2026-04-16,Daniel Santos,South,Headset,Peripherals,3,236
+2026-04-08,Lucas Souza,West,Notebook,Computers,4,3509
+2026-03-31,Mariana Souza,South,Notebook,Computers,1,3492
+2026-04-13,Lucas Barbosa,East,Keyboard,Peripherals,5,152
+2026-06-14,Gabriel Silva,West,Desk,Furniture,9,1401
+2026-01-08,Ana Barbosa,East,Monitor,Screens,10,896
+2026-01-10,Ana Barbosa,Central,Printer,Office,6,1200
+2026-04-22,Ana Souza,Central,Keyboard,Peripherals,7,166
+2026-02-18,Mariana Souza,North,Router,Networking,7,300
+2026-05-14,Gabriel Silva,South,Webcam,Peripherals,7,164
+2026-06-20,Lucas Barbosa,Central,Webcam,Peripherals,2,179
+2026-05-10,Mariana Souza,West,Webcam,Peripherals,7,178
+2026-05-22,Eduardo Santos,South,Printer,Office,7,1191
+2026-06-07,Ana Souza,East,Printer,Office,9,1180
+2026-03-19,Mariana Souza,South,Printer,Office,10,1218
+2026-06-17,Lucas Barbosa,West,SSD 1TB,Storage,8,543
+2026-05-11,Bruno Rodrigues,South,Desk,Furniture,2,1398
+2026-05-12,Daniel Santos,Central,Webcam,Peripherals,2,175
+2026-06-22,Mariana Souza,South,Notebook,Computers,3,3481
+2026-01-12,Daniel Oliveira,West,Office Chair,Furniture,2,959
+2026-04-17,Daniel Santos,Central,Notebook,Computers,7,3511
+2026-04-13,Daniel Oliveira,South,Desk,Furniture,1,1386
+2026-04-19,Daniel Oliveira,South,Router,Networking,9,329
+2026-01-13,Gabriel Silva,South,Keyboard,Peripherals,8,138
+2026-04-29,Daniel Santos,Central,External HD,Storage,10,420
+2026-04-24,Ana Souza,Central,Printer,Office,9,1208
+2026-02-10,Igor Rodrigues,West,SSD 1TB,Storage,5,545
+2026-06-13,Mariana Souza,Central,SSD 1TB,Storage,4,547
+2026-04-23,Ana Barbosa,East,Notebook,Computers,5,3501
+2026-03-23,Gabriel Silva,North,Monitor,Screens,3,894
+2026-04-09,Igor Rodrigues,South,Router,Networking,4,304
+2026-04-17,Sofia Ferreira,East,External HD,Storage,8,426
+2026-01-16,Daniel Oliveira,West,Printer,Office,10,1181
+2026-05-28,Sofia Ferreira,West,Mouse,Peripherals,6,79
+2026-04-10,Sofia Ferreira,Central,Router,Networking,9,338
+2026-02-26,Bruno Rodrigues,South,Headset,Peripherals,7,261
+2026-01-08,Sofia Ferreira,East,Desk,Furniture,7,1390
+2026-04-30,Eduardo Santos,Central,External HD,Storage,1,425
+2026-06-01,Ana Souza,North,Keyboard,Peripherals,7,138
+2026-04-29,Eduardo Santos,North,Headset,Peripherals,7,250
+2026-02-24,Bruno Rodrigues,East,Webcam,Peripherals,7,177
+2026-04-18,Mariana Souza,North,SSD 1TB,Storage,1,564
+2026-01-14,Lucas Barbosa,South,Desk,Furniture,2,1382
+2026-01-08,Daniel Oliveira,South,Mouse,Peripherals,10,69
+2026-03-03,Eduardo Santos,West,Desk,Furniture,2,1416
+2026-02-25,Bruno Rodrigues,East,Webcam,Peripherals,3,198
+2026-06-05,Igor Rodrigues,North,Monitor,Screens,5,886
+2026-05-29,Lucas Souza,East,Office Chair,Furniture,7,955
+2026-02-20,Ana Barbosa,Central,Router,Networking,4,306
+2026-06-28,Mariana Souza,Central,Keyboard,Peripherals,10,132
+2026-03-30,Gabriel Silva,West,Desk,Furniture,6,1384
+2026-05-10,Daniel Santos,East,Mouse,Peripherals,7,91
+2026-01-28,Sofia Ferreira,East,Desk,Furniture,8,1389
+2026-04-22,Eduardo Santos,Central,Desk,Furniture,5,1419
+2026-05-18,Bruno Rodrigues,West,Printer,Office,10,1197
+2026-03-24,Daniel Oliveira,North,Headset,Peripherals,8,245
+2026-04-29,Ana Souza,Central,Desk,Furniture,7,1401
+2026-01-08,Bruno Rodrigues,East,Monitor,Screens,8,893
+2026-04-01,Mariana Souza,East,Headset,Peripherals,10,247
+2026-05-23,Lucas Souza,Central,Notebook,Computers,2,3495
+2026-04-15,Bruno Rodrigues,Central,Notebook,Computers,8,3511
+2026-04-25,Lucas Souza,North,Headset,Peripherals,4,255
+2026-06-27,Daniel Oliveira,East,Desk,Furniture,10,1403
+2026-05-02,Gabriel Silva,Central,Webcam,Peripherals,7,195
+2026-03-26,Lucas Barbosa,West,Headset,Peripherals,5,246
+2026-03-01,Ana Barbosa,South,Webcam,Peripherals,2,194
+2026-06-26,Eduardo Santos,South,Notebook,Computers,8,3497
+2026-05-31,Gabriel Silva,Central,Headset,Peripherals,2,242
+2026-03-17,Daniel Oliveira,East,Monitor,Screens,5,880
+2026-05-17,Eduardo Santos,East,Mouse,Peripherals,1,95
+2026-03-16,Igor Rodrigues,South,Desk,Furniture,8,1386
+2026-01-04,Ana Souza,East,SSD 1TB,Storage,8,558
+2026-03-29,Eduardo Santos,North,Headset,Peripherals,8,237
+2026-01-17,Sofia Ferreira,West,Keyboard,Peripherals,10,170
+2026-06-25,Lucas Souza,South,Monitor,Screens,10,899
+2026-01-22,Daniel Oliveira,North,External HD,Storage,7,438
+2026-06-02,Ana Souza,South,External HD,Storage,7,428
+2026-04-24,Mariana Souza,Central,Printer,Office,5,1216
+2026-06-08,Lucas Souza,Central,Router,Networking,2,313
+2026-06-10,Daniel Oliveira,East,Desk,Furniture,2,1390
+2026-03-03,Eduardo Santos,Central,Keyboard,Peripherals,3,130
+2026-04-15,Bruno Rodrigues,Central,SSD 1TB,Storage,5,532
+2026-03-01,Mariana Souza,East,Router,Networking,8,304
+2026-06-25,Daniel Oliveira,East,Desk,Furniture,10,1392
+2026-04-19,Ana Barbosa,Central,Notebook,Computers,3,3497
+2026-02-06,Ana Barbosa,North,Monitor,Screens,5,918
+2026-05-26,Mariana Souza,West,Keyboard,Peripherals,8,149
+2026-06-29,Sofia Ferreira,East,External HD,Storage,9,431
+2026-04-23,Ana Barbosa,Central,Mouse,Peripherals,7,80
+2026-06-04,Mariana Souza,North,Keyboard,Peripherals,4,166
+2026-05-31,Lucas Souza,East,Office Chair,Furniture,1,941
+2026-05-01,Gabriel Silva,West,Headset,Peripherals,3,267
+2026-04-22,Daniel Santos,West,Keyboard,Peripherals,8,152
+2026-04-15,Lucas Barbosa,East,Desk,Furniture,2,1390
+2026-03-26,Sofia Ferreira,West,Headset,Peripherals,7,265
+2026-01-10,Bruno Rodrigues,North,Webcam,Peripherals,5,180
+2026-01-30,Sofia Ferreira,Central,Mouse,Peripherals,9,89
+2026-04-16,Lucas Souza,South,External HD,Storage,6,439
+2026-05-08,Daniel Santos,West,Mouse,Peripherals,4,77
+2026-05-21,Eduardo Santos,East,SSD 1TB,Storage,8,537
+2026-01-08,Daniel Santos,Central,Notebook,Computers,3,3499
+2026-05-22,Lucas Souza,Central,Printer,Office,2,1194
+2026-01-30,Bruno Rodrigues,North,Desk,Furniture,3,1411
+2026-03-16,Gabriel Silva,East,Printer,Office,8,1210
+2026-03-04,Bruno Rodrigues,Central,Monitor,Screens,7,892
+2026-06-03,Gabriel Silva,South,Keyboard,Peripherals,5,156
+2026-03-29,Gabriel Silva,East,Mouse,Peripherals,5,79
+2026-05-31,Ana Souza,West,Monitor,Screens,8,914
+2026-05-04,Lucas Barbosa,East,External HD,Storage,9,424
+2026-04-27,Lucas Barbosa,South,Router,Networking,4,336
+2026-04-09,Daniel Oliveira,West,Mouse,Peripherals,6,90
+2026-06-30,Sofia Ferreira,West,Desk,Furniture,3,1411
+2026-01-10,Eduardo Santos,Central,Office Chair,Furniture,6,936
+2026-04-23,Ana Barbosa,Central,SSD 1TB,Storage,1,539
+2026-04-15,Daniel Santos,South,Keyboard,Peripherals,8,146
+2026-03-28,Ana Souza,West,Desk,Furniture,2,1401
+2026-06-22,Gabriel Silva,West,Webcam,Peripherals,8,194
+2026-01-10,Ana Souza,North,Notebook,Computers,5,3494
+2026-01-24,Sofia Ferreira,North,Desk,Furniture,2,1408
+2026-02-12,Igor Rodrigues,East,Mouse,Peripherals,1,80
+2026-01-15,Mariana Souza,East,Webcam,Peripherals,7,169
+2026-03-04,Gabriel Silva,West,Office Chair,Furniture,3,940
+2026-02-14,Ana Barbosa,Central,Printer,Office,10,1195
+2026-05-08,Ana Souza,South,Notebook,Computers,8,3520
+2026-03-07,Bruno Rodrigues,East,Desk,Furniture,1,1409
+2026-03-15,Daniel Santos,Central,Monitor,Screens,2,908
+2026-03-30,Ana Souza,East,Desk,Furniture,7,1396
+2026-04-27,Mariana Souza,South,Printer,Office,8,1186
+2026-03-02,Sofia Ferreira,Central,Webcam,Peripherals,10,178
+2026-06-29,Mariana Souza,North,Desk,Furniture,7,1397
+2026-01-03,Ana Souza,North,Office Chair,Furniture,8,948
+2026-02-28,Ana Souza,East,Notebook,Computers,4,3519
+2026-03-06,Daniel Santos,South,Desk,Furniture,2,1420
+2026-06-15,Lucas Souza,East,SSD 1TB,Storage,1,567
+2026-04-04,Igor Rodrigues,South,Keyboard,Peripherals,5,150
+2026-04-17,Eduardo Santos,South,Monitor,Screens,9,903
+2026-05-16,Gabriel Silva,East,Monitor,Screens,5,910
+2026-03-17,Igor Rodrigues,East,Keyboard,Peripherals,8,134
+2026-02-06,Daniel Oliveira,West,External HD,Storage,6,405
+2026-04-12,Lucas Souza,East,External HD,Storage,2,429
+2026-04-05,Daniel Santos,East,Office Chair,Furniture,7,970
+2026-04-06,Ana Barbosa,South,SSD 1TB,Storage,1,569
+2026-05-24,Lucas Barbosa,Central,Notebook,Computers,2,3520
+2026-04-29,Igor Rodrigues,East,Desk,Furniture,7,1387
+2026-02-05,Lucas Souza,North,Headset,Peripherals,8,237
+2026-01-25,Daniel Oliveira,Central,Monitor,Screens,7,909
+2026-04-05,Daniel Santos,Central,Printer,Office,10,1189
+2026-04-17,Daniel Santos,North,SSD 1TB,Storage,10,556
+2026-03-13,Lucas Souza,East,Notebook,Computers,8,3508
+2026-03-02,Lucas Barbosa,North,Desk,Furniture,6,1414
+2026-06-15,Lucas Barbosa,North,Printer,Office,5,1192
+2026-02-01,Bruno Rodrigues,North,Desk,Furniture,4,1420
+2026-06-02,Lucas Souza,North,Webcam,Peripherals,4,168
+2026-05-25,Daniel Oliveira,North,External HD,Storage,4,437
+2026-02-25,Daniel Oliveira,East,Monitor,Screens,10,880
+2026-03-12,Eduardo Santos,South,External HD,Storage,5,411
+2026-01-29,Daniel Santos,North,Monitor,Screens,1,902
+2026-03-02,Ana Souza,East,Mouse,Peripherals,3,76
+2026-01-14,Eduardo Santos,West,External HD,Storage,2,404
+2026-05-02,Bruno Rodrigues,East,External HD,Storage,10,406
+2026-04-26,Gabriel Silva,South,Office Chair,Furniture,1,963
+2026-03-19,Bruno Rodrigues,North,Mouse,Peripherals,8,85
+2026-04-20,Daniel Santos,North,SSD 1TB,Storage,8,534
+2026-01-21,Lucas Barbosa,Central,Monitor,Screens,2,888
+2026-03-12,Ana Souza,Central,External HD,Storage,6,424
+2026-06-02,Gabriel Silva,East,SSD 1TB,Storage,9,568
+2026-04-21,Ana Barbosa,North,Desk,Furniture,9,1393
+2026-04-21,Bruno Rodrigues,South,Printer,Office,6,1209
+2026-04-13,Sofia Ferreira,North,Webcam,Peripherals,7,180
+2026-06-20,Mariana Souza,East,Monitor,Screens,8,884
+2026-01-24,Ana Barbosa,North,Printer,Office,2,1203
+2026-02-03,Gabriel Silva,North,Office Chair,Furniture,9,965
+2026-03-26,Daniel Santos,North,Printer,Office,6,1207
+2026-01-14,Mariana Souza,Central,Headset,Peripherals,6,236
+2026-05-28,Gabriel Silva,South,Monitor,Screens,8,894
+2026-01-28,Lucas Barbosa,Central,Webcam,Peripherals,2,177
+2026-05-27,Daniel Oliveira,West,External HD,Storage,10,439
+2026-06-22,Daniel Santos,Central,Mouse,Peripherals,10,77
+2026-01-08,Eduardo Santos,East,Router,Networking,5,321
+2026-03-31,Lucas Souza,South,Monitor,Screens,10,905
+2026-01-18,Eduardo Santos,North,Keyboard,Peripherals,9,143
+2026-04-07,Sofia Ferreira,West,Webcam,Peripherals,3,183
+2026-03-21,Igor Rodrigues,East,Office Chair,Furniture,10,935
+2026-01-14,Eduardo Santos,South,Office Chair,Furniture,1,935
+2026-03-11,Bruno Rodrigues,West,SSD 1TB,Storage,10,558
+2026-04-17,Mariana Souza,South,External HD,Storage,2,422
+2026-04-21,Ana Barbosa,East,Desk,Furniture,10,1411
+2026-05-15,Daniel Santos,East,Mouse,Peripherals,4,85
+2026-06-03,Lucas Souza,North,Notebook,Computers,5,3493
+2026-02-05,Mariana Souza,East,Webcam,Peripherals,2,160
+2026-05-08,Igor Rodrigues,West,Monitor,Screens,3,904
+2026-05-17,Igor Rodrigues,South,External HD,Storage,9,422
+2026-01-19,Sofia Ferreira,North,Printer,Office,1,1209
+2026-01-20,Lucas Barbosa,Central,Printer,Office,10,1205
+2026-06-13,Sofia Ferreira,East,Keyboard,Peripherals,7,131
+2026-03-25,Eduardo Santos,Central,SSD 1TB,Storage,6,535
+2026-04-22,Ana Barbosa,South,Printer,Office,10,1205
+2026-05-15,Ana Barbosa,West,Headset,Peripherals,6,244
+2026-03-27,Eduardo Santos,North,External HD,Storage,2,433
+2026-05-11,Daniel Oliveira,East,Webcam,Peripherals,3,175
+2026-01-27,Eduardo Santos,East,Notebook,Computers,3,3518
+2026-02-09,Daniel Santos,North,Monitor,Screens,8,909
+2026-05-25,Ana Souza,West,Desk,Furniture,10,1420
+2026-06-09,Lucas Barbosa,East,Monitor,Screens,8,884
+2026-05-01,Bruno Rodrigues,East,Headset,Peripherals,10,233
+2026-04-01,Gabriel Silva,North,Headset,Peripherals,8,258
+2026-01-10,Lucas Souza,East,Headset,Peripherals,2,235
+2026-06-07,Ana Souza,Central,Printer,Office,8,1217
+2026-05-22,Igor Rodrigues,North,SSD 1TB,Storage,10,542
+2026-03-24,Ana Souza,West,External HD,Storage,3,403
+2026-04-26,Ana Barbosa,East,Router,Networking,2,332
+2026-06-15,Eduardo Santos,North,Notebook,Computers,8,3508
+2026-05-15,Gabriel Silva,Central,Monitor,Screens,6,903
+2026-03-14,Sofia Ferreira,West,Webcam,Peripherals,10,163
+2026-06-11,Daniel Santos,East,Keyboard,Peripherals,6,136
+2026-05-23,Daniel Santos,West,Headset,Peripherals,5,268
+2026-02-08,Lucas Barbosa,North,Office Chair,Furniture,3,952
+2026-03-21,Daniel Santos,West,Monitor,Screens,10,885
+2026-03-21,Gabriel Silva,West,Desk,Furniture,6,1388
+2026-06-21,Igor Rodrigues,Central,Keyboard,Peripherals,7,162
+2026-04-03,Lucas Souza,East,Headset,Peripherals,3,243
+2026-03-29,Bruno Rodrigues,South,Notebook,Computers,3,3489
+2026-01-20,Mariana Souza,North,External HD,Storage,9,433
+2026-01-10,Daniel Santos,East,Office Chair,Furniture,3,968
+2026-04-07,Eduardo Santos,South,Monitor,Screens,10,890
+2026-04-23,Lucas Souza,West,Webcam,Peripherals,4,188
+2026-06-06,Mariana Souza,West,Notebook,Computers,9,3495
+2026-03-21,Bruno Rodrigues,South,Webcam,Peripherals,10,188
+2026-04-29,Mariana Souza,West,External HD,Storage,9,426
