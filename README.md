@@ -1,31 +1,46 @@
 # Sales Analysis Dashboard
 
-Projeto de análise de vendas utilizando Python, PostgreSQL e Power BI.
+![Dashboard](screenshots/dashboard.png)
 
-## Sobre o projeto
-
-Este projeto demonstra um pipeline completo de análise de dados, desde a ingestão de um arquivo CSV até a criação de um dashboard interativo no Power BI.
-
-Fluxo do projeto:
-
-CSV → PostgreSQL → Python (ETL) → Power BI
+Projeto de análise de vendas desenvolvido com **Python, PostgreSQL e Power BI**, demonstrando um pipeline completo de ETL, armazenamento em banco de dados e criação de dashboards para análise de indicadores de negócio.
 
 ---
 
-## Tecnologias utilizadas
+# Objetivo
+
+Construir um pipeline completo de análise de vendas, desde a ingestão dos dados até a criação de um dashboard interativo para apoiar a tomada de decisões.
+
+---
+
+# Fluxo do projeto
+
+```
+CSV
+   ↓
+Python (ETL com Pandas)
+   ↓
+PostgreSQL
+   ↓
+Power BI Dashboard
+```
+
+---
+
+# Tecnologias utilizadas
 
 - Python
 - Pandas
+- SQL
 - SQLAlchemy
 - PostgreSQL
 - Power BI
 
 ---
 
-## Estrutura do projeto
+# Estrutura do projeto
 
 ```
-report-automation-system/
+sales-analysis-dashboard/
 │
 ├── data/
 │   ├── input/
@@ -39,6 +54,9 @@ report-automation-system/
 │       ├── create_table.sql
 │       └── query.sql
 │
+├── screenshots/
+│   └── dashboard.png
+│
 ├── sales_dashboard.pbix
 ├── requirements.txt
 ├── README.md
@@ -47,39 +65,42 @@ report-automation-system/
 
 ---
 
-## Pipeline
+# Pipeline
 
-### 1. Ingestão
+## 1. Ingestão dos dados
 
-O arquivo CSV é carregado para uma base PostgreSQL utilizando Python.
+Os dados são importados de um arquivo CSV utilizando Python e preparados para armazenamento em banco de dados.
 
 ---
 
-### 2. ETL
+## 2. ETL (Extract, Transform and Load)
 
-Durante a etapa de transformação são realizadas operações como:
+Durante a transformação dos dados são realizadas operações como:
 
 - Conversão de datas
 - Criação das colunas de mês
 - Criação das colunas de dia da semana
-- Tradução dos dados para português
+- Tradução de meses e dias para português
 - Cálculo do faturamento (Revenue)
 - Padronização dos dados
+- Validação dos dados antes do carregamento
+
+Após o tratamento, os dados são carregados para o PostgreSQL.
 
 ---
 
-### 3. Dashboard
+## 3. Dashboard
 
-No Power BI foram desenvolvidos indicadores e gráficos para análise das vendas.
+O Power BI consome os dados tratados do PostgreSQL para construção do dashboard interativo.
 
-KPIs:
+### KPIs
 
 - Receita Total
 - Quantidade Vendida
 - Número de Vendas
 - Ticket Médio
 
-Visualizações:
+### Visualizações
 
 - Receita por mês
 - Receita por vendedor
@@ -89,7 +110,29 @@ Visualizações:
 
 ---
 
-## Como executar
+# Dashboard
+
+![Dashboard](screenshots/dashboard.png)
+
+O dashboard permite analisar o desempenho das vendas por período, vendedor, região e produto, facilitando a identificação de tendências e apoiando a tomada de decisões.
+
+---
+
+# Como executar
+
+## Pré-requisitos
+
+- Python 3.10+
+- PostgreSQL
+- Power BI Desktop
+
+## Instalação
+
+Clone o repositório:
+
+```bash
+git clone https://github.com/themouron/sales-analysis-dashboard.git
+```
 
 Instale as dependências:
 
@@ -97,21 +140,25 @@ Instale as dependências:
 pip install -r requirements.txt
 ```
 
-Configure a conexão com o PostgreSQL no arquivo `etl.py`.
+Configure o PostgreSQL:
 
-Execute:
+- Crie um banco chamado `sales_analysis`.
+- Execute o script `create_table.sql`.
+- Atualize a senha do PostgreSQL no arquivo de conexão (`etl.py`).
+
+Execute o carregamento dos dados:
 
 ```bash
 python src/load_data.py
 ```
 
-Depois:
+Execute o processo de ETL:
 
 ```bash
 python src/etl.py
 ```
 
-Abra o arquivo:
+Por fim, abra o arquivo:
 
 ```
 sales_dashboard.pbix
@@ -121,6 +168,16 @@ no Power BI Desktop.
 
 ---
 
-## Autor
+# Observações
 
-Daniel Mourão
+Este projeto foi desenvolvido para fins de estudo e demonstração de um pipeline completo de análise de dados utilizando Python, PostgreSQL e Power BI.
+
+---
+
+# Autor
+
+**Daniel Mourão**
+
+Graduando em Matemática (Bacharelado) pela UFRRJ.
+
+GitHub: https://github.com/themouron
